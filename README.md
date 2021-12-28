@@ -20,6 +20,24 @@
 [Solution](./js/personConstructor.js)
 
 </details>
+</details>
+<details>
+    <summary> 3. Create Car constructor</summary>
+    <br>
+ Task: Car Constructor
+
+[Solution](./js/carConstructor.js)
+
+</details>
+</details>
+<details>
+    <summary> 4. Create Baby constructor</summary>
+    <br>
+ Task: Write a Baby constructor subclassing Person
+
+[Solution](./js/personConstructor.js)
+
+</details>
 
 ## Author
 
