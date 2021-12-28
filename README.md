@@ -38,6 +38,14 @@
 [Solution](./js/personConstructor.js)
 
 </details>
+<details>
+    <summary> 5.Person</summary>
+    <br>
+ Task: Create a method in the Person class which returns how another person's age compares
+
+[Solution](./js/personConstructor.js)
+
+</details>
 
 ## Author
 
